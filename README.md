@@ -2,7 +2,7 @@
 
 Long‑Term S&P 500 Investment Model
 
-This project is a complete research‑grade framework for constructing a long‑only U.S. equity portfolio. It combines fundamental and technical analysis with machine‑learning forecasts and modern portfolio optimization to allocate across S&P 500 stocks.
+This project is a complete framework for constructing a long‑only U.S. equity portfolio. It combines fundamental and technical analysis with machine‑learning forecasts and modern portfolio optimization to allocate across S&P 500 stocks.
 
 Flexible data sources: Download price and fundamental data directly from Yahoo Finance or load your pre‑collected dataset from a wide‑format CSV/ZIP file.
 
